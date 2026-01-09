@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hk1139.github.io/jee-rank-predictor-111/sitemap.xml
